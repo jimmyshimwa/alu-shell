@@ -1,0 +1,3 @@
+#!/bin/bash
+find . -type f -name "*.gif" | tr "/" "
+" | grep ".gif" | cut -d. -f1 | sort -fi
