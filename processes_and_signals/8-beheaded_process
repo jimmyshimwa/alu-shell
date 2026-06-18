@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-# Kills the 7-highlander process using SIGKILL
-pkill -9 -f 7-highlander
